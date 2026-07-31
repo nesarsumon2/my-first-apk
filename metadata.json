@@ -1,0 +1,6 @@
+{
+  "name": "Settings Manager",
+  "description": "Automate phone Wi-Fi and Bluetooth settings using countdown timers and scheduled triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
